@@ -32,3 +32,6 @@ MASA Stack是一个开源企业级云原生技术底座，它是一站式.NET现
 * ETL：规划中
 * Big Data API：规划中
 * View：规划中
+
+## C4 Model
+https://s.icepanel.io/heG4Q507oO
