@@ -1,10 +1,13 @@
 # MASA Stack
-MASA Stack是一个开源企业级云原生技术底座，它是一站式.NET现代应用开发解决方案
+
+MASA Stack是一个开源企业级云原生技术底座，它是一站式.NET现代化应用开发解决方案
 
 ## Framework（现代应用开发框架）
+
 * Framework：[MASA.Framework](https://github.com/masastack/MASA.Framework)
 
 ## Blazor Components（Blazor组件库）
+
 * MASA.Blazor：[MASA.Blazor](https://github.com/BlazorComponent/MASA.Blazor)
 * BlazorComponent：[BlazorComponent](https://github.com/BlazorComponent/BlazorComponent)
 
@@ -21,6 +24,7 @@ MASA Stack是一个开源企业级云原生技术底座，它是一站式.NET现
 * MC：[MASA.MC](https://github.com/masastack/MASA.MC)
 
 ## Operator（高效运维解决方案）
+
 * PM：[MASA.PM](https://github.com/masastack/MASA.PM)
 * DCC：[MASA.DCC](https://github.com/masastack/MASA.DCC)
 * TSC：[MASA.TSC](https://github.com/masastack/MASA.TSC)
@@ -28,10 +32,12 @@ MASA Stack是一个开源企业级云原生技术底座，它是一站式.NET现
 * DevOps：规划中
 
 ## Data Factory（数据治理解决方案）
+
 * Metadata：规划中
 * ETL：规划中
 * Big Data API：规划中
 * View：规划中
 
 ## C4 Model
+
 https://s.icepanel.io/heG4Q507oO
